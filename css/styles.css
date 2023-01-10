@@ -124,7 +124,10 @@ h2{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
+#cta{
+    text-align: center;
+    margin-bottom: 60px;
+}
 .card:hover{
     box-shadow: none;
 }
