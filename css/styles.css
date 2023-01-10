@@ -96,3 +96,13 @@ h2{
 .dogname{
     font-size: 1.2rem;
 }
+
+.card{
+    box-shadow: 7px 7px gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card:hover{
+    box-shadow: none;
+}
