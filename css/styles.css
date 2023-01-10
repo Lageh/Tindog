@@ -63,6 +63,15 @@
     position: relative;
 }
 
+#footer{
+    background-color: #efc372;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    text-align: center;
+    border-top-style: double ;
+    margin: 0;
+}
+
 .icon{
     color: #ef8172;
     margin-bottom: 1.5rem;
