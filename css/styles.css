@@ -112,3 +112,7 @@ h2{
 .card:hover{
     box-shadow: none;
 }
+.cardbody{
+    margin-top: 10px;
+    Martin-bottom: 10px;
+}
