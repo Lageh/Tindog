@@ -63,3 +63,32 @@
 .icon:hover{
     color: #ff4c68;
 }
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+h2{
+    font-family: 'montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.testemonialpicture{
+    border-radius: 100%;
+    width: 10%;
+    margin: 3%;
+}
+
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3% ;
+}
+
+.logoimage{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
