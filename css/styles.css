@@ -38,7 +38,9 @@
 
 .doguinho{
     transform: rotate(30deg);
-    width: 60%;
+    width: 200px;
+    right: -100px;
+    position: relative;
 }
 
 .feature{
@@ -48,6 +50,7 @@
 
 #features{
     padding: 7% 15%;
+    background-color: white;
 }
 
 .h3-feature{
