@@ -3,6 +3,57 @@
     color: white;
 }
 
+#features{
+    padding: 7% 15%;
+    background-color: white;
+}
+
+#features{
+    position: relative;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3% ;
+}
+#pricing{
+    text-align: center;
+    padding: 7% 10%;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    
+    padding: 5% 3% 5%;
+}
+
+h1,h2,h3,h4,h5,h6{
+        font-family: 'montserrat', sans-serif;    
+}
+
+h2{
+    font-weight: bold;
+}
+
+.h3-feature{
+    font-family: 'montserrat', sans-serif;
+    font-weight: bold;
+}
+
 .calltoaction{
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
@@ -49,20 +100,6 @@
     padding: 5%;
 }
 
-#features{
-    padding: 7% 15%;
-    background-color: white;
-}
-
-.h3-feature{
-    font-family: 'montserrat', sans-serif;
-    font-weight: bold;
-}
-
-#features{
-    position: relative;
-}
-
 .icon{
     color: #ef8172;
     margin-bottom: 1.5rem;
@@ -72,29 +109,12 @@
     color: #ff4c68;
 }
 
-#testimonials{
-    padding: 7% 15%;
-    text-align: center;
-    background-color: #ef8172;
-    color: white;
-}
-
-h2{
-    font-family: 'montserrat', sans-serif;
-    font-weight: bold;
-}
-
 .testemonialpicture{
     border-radius: 100%;
     width: 10%;
     margin: 3%;
 }
 
-#press{
-    text-align: center;
-    background-color: #ef8172;
-    padding-bottom: 3% ;
-}
 
 .logoimage{
     width: 15%;
@@ -105,22 +125,12 @@ h2{
     font-size: 1.2rem;
 }
 
-#pricing{
-    text-align: center;
-    padding: 7% 10%;
-}
-
 .card{
     box-shadow: 7px 7px gray;
     margin-top: 10px;
     margin-bottom: 10px;
 }
-#cta{
-    background-color: #ff4c68;
-    text-align: center;
-    
-    padding: 5% 3% 5%;
-}
+
 .card:hover{
     box-shadow: none;
 }
@@ -130,10 +140,7 @@ h2{
     margin-left: 25px;
     margin-top: 25px;
 }
-#footer{
-    text-align: center;
-    margin-top: 20px;
-}
+
 .footerText{
     font-family: 'montserrat', sans-serif;
     font-weight: bold;
