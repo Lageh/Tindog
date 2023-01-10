@@ -114,3 +114,17 @@ h2{
 .card:hover{
     box-shadow: none;
 }
+
+
+@media (max-width: 1000px){
+    .doguinho{
+        position: static;
+        transform: rotate(0);
+    }
+
+    #title{
+        text-align: center;
+    }
+
+    
+}
