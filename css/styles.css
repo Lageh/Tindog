@@ -38,9 +38,10 @@
 
 .doguinho{
     transform: rotate(30deg);
-    width: 200px;
-    right: -100px;
-    position: relative;
+    width: 250px;
+    right: 200px;
+    position: absolute;
+    z-index: 0;
 }
 
 .feature{
@@ -56,6 +57,10 @@
 .h3-feature{
     font-family: 'montserrat', sans-serif;
     font-weight: bold;
+}
+
+#features{
+    position: relative;
 }
 
 .icon{
